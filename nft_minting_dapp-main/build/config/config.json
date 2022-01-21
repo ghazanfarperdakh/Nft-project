@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa2f4d4dF09Dc193cab34ff5075930F4FbFba8731",
+  "SCAN_LINK": "https://ropsten.etherscan.io/address/0xa2f4d4dF09Dc193cab34ff5075930F4FbFba8731",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 3
+  },
+  "NFT_NAME": "NFT PROJECT",
+  "SYMBOL": "NFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 295000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "SHOW_BACKGROUND": true
+}
